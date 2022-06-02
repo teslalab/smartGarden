@@ -11,7 +11,7 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 	- Luego presionamos la opción ***OK*** y automáticamente se cerrará la ventana.
 3. Debemos ir a la pestaña ***Herramientas***->***Placa***->***Gestor de tarjetas***.
 	- Colocamos en la barra de búsqueda ***ESP32***.
-	- Seleccionamos la opción que nos muestre ***NodeMCU-32S***.
+	- Seleccionamos la opción que nos muestre ***ESP32 Wrover Module***.
 	- Instalamos y luego presionamos la opción de ***Cerrar***.
 
 Con esto tendremos completa la instalación de nuestra tarjeta ESP32 y lista para ser programada.	 
@@ -47,11 +47,15 @@ Nombre | GPIO
 VDD | 5V - 9V
 VSS | GND
 
-### Bomba de Agua
+### Bomba de Agua No.1
 Nombre | GPIO 
 --- | --- 
 AIN1 | 32
 AIN2 | 33
+
+### Bomba de Agua No.2
+Nombre | GPIO 
+--- | --- 
 BIN1 | 25
 BIN2 | 26
 
@@ -77,4 +81,26 @@ SDI | 21
 VDD | 3V3
 VSS | GND
 
+### Prueba Motores
 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+
+[Visita el código base en el siguiente link][prueba_motore]
+
+[prueba_motore]: https://www.arduined.eu/files/windows10/CH341SER.zip
+
+### Prueba sensor IR
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+
+[Visita el código base en el siguiente link][prueba_IR]
+
+[prueba_IR]: https://www.arduined.eu/files/windows10/CH341SER.zip
+
+### Control Remote desde Dabble
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book 
+
+[Visita el código base en el siguiente link][cotrol_dabble]
+
+[control_dabble]: https://www.arduined.eu/files/windows10/CH341SER.zip
