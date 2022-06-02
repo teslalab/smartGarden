@@ -84,7 +84,7 @@ VSS | GND
 
 ### Prueba de Bomba de Agua
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+Este código permite la interacción desde el kit y la bomba de agua. El código es igual al de mover un motor DC.
 
 [Visita el código base en el siguiente link][prueba_motore]
 
@@ -93,7 +93,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Prueba de Sensor Humedad de Suelo
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+Este código permite la interacción entre el kit y el sensor de humedad de suelo (higrómetro).
 
 [Visita el código base en el siguiente link][prueba_higro]
 
@@ -101,7 +101,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Prueba de Sensor UV
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+Este código permite la interacción entre el kit y el sensor UV. Este sensor debe interactuar con el aro de luz UV del kit.
 
 [Visita el código base en el siguiente link][prueba_UV]
 
@@ -109,7 +109,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Prueba de Sensor Humedad y Temperatura Ambiente BME688
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book 
+Este código permite la interacción entre el kit y el sensor BME688 (sensor de temperatura y humedad ambiente).
 
 [Visita el código base en el siguiente link][prueba_BME]
 
