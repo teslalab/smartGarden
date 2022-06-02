@@ -81,26 +81,36 @@ SDI | 21
 VDD | 3V3
 VSS | GND
 
-### Prueba Motores
+
+### Prueba de Bomba de Agua
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
 
 [Visita el código base en el siguiente link][prueba_motore]
 
-[prueba_motore]: https://www.arduined.eu/files/windows10/CH341SER.zip
+[prueba_motore]: https://github.com/teslalab/smartGarden/tree/main/ejemplos%20smart%20garden%20-%20balam%202022/balam2022-prueba-motores-v1
 
-### Prueba sensor IR
+
+### Prueba de Sensor Humedad de Suelo
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
 
-[Visita el código base en el siguiente link][prueba_IR]
+[Visita el código base en el siguiente link][prueba_higro]
 
-[prueba_IR]: https://www.arduined.eu/files/windows10/CH341SER.zip
+[prueba_higro]: https://github.com/teslalab/smartGarden/tree/main/ejemplos%20smart%20garden%20-%20balam%202022/22020601-balam2022-sensor_humedad_suelo-test
 
-### Control Remote desde Dabble
+### Prueba de Sensor UV
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+
+[Visita el código base en el siguiente link][prueba_UV]
+
+[prueba_UV]: https://github.com/teslalab/smartGarden/tree/main/ejemplos%20smart%20garden%20-%20balam%202022/20220601-balam2022-sensorSI1133
+
+### Prueba de Sensor Humedad y Temperatura Ambiente BME688
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book 
 
-[Visita el código base en el siguiente link][cotrol_dabble]
+[Visita el código base en el siguiente link][prueba_BME]
 
-[control_dabble]: https://www.arduined.eu/files/windows10/CH341SER.zip
+[prueba_BME]: https://github.com/teslalab/smartGarden/tree/main/ejemplos%20smart%20garden%20-%20balam%202022/20220601-balam2022-sensorBME
