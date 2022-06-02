@@ -86,6 +86,8 @@ VSS | GND
 
 Este código permite la interacción desde el kit y la bomba de agua. El código es igual al de mover un motor DC.
 
+ ***Recuerde que el voltage de alimentación para los motores puede estar de 5V a 9V, verifique el voltage de alimentación de la bomba de agua que esta utilizando***
+
 [Visita el código base en el siguiente link][prueba_motore]
 
 [prueba_motore]: https://github.com/teslalab/smartGarden/tree/main/ejemplos%20smart%20garden%20-%20balam%202022/balam2022-prueba-motores-v1
