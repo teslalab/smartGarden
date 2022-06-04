@@ -116,3 +116,15 @@ Este código permite la interacción entre el kit y el sensor BME688 (sensor de 
 [Visita el código base en el siguiente link][prueba_BME]
 
 [prueba_BME]: https://github.com/teslalab/smartGarden/tree/main/ejemplos%20smart%20garden%20-%20balam%202022/20220601-balam2022-sensorBME
+
+
+------------------------
+## Pitch del emprendedor
+
+[Descarga el documento para pitch][doc_pitch]
+
+[doc_pitch]: https://github.com/teslalab/smartGarden/blob/1b331c7f910be8bab9c8b3bcf0abb57e6ab4035d/ejemplos%20smart%20garden%20-%20balam%202022/Pitch%20del%20emprendedor%20Tecnolo%CC%81gico%20y%20Social.pdf
+
+
+
+
